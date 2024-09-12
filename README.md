@@ -43,6 +43,8 @@ $ cd css-mini-projects
 6. [Loading Animation 2](#loading-animation-2)
 7. [Archery Target](#archery-target)
 8. [Word Carousel](#8-word-carousel)
+9. [Flag Of France](#9-flag-of-france)
+10. [Flag Of Germany](#10-flag-of-germany)
 
 ### <a name="spoiler-revealer">Spoiler Revealer</a>
 
@@ -75,3 +77,11 @@ $ cd css-mini-projects
 ### <a name="8-word-carousel">Word Carousel</a>
 
 [![Word Carousel](./8-word-carousel.png "Word Carousel")](https://prantomollick.github.io/css-mini-projects/8-word-carousel/index.html)
+
+### <a name="9-flag-of-france">Flag Of France</a>
+
+[![Flag Of France](./9-flag-of-france.png "Flag Of France")](https://prantomollick.github.io/css-mini-projects/9-flag-of-france/index.html)
+
+### <a name="10-flag-of-germany">Flag Of Germany</a>
+
+[![Flag Of Germany](./10-flag-of-germany.png "Flag Of Germany")](https://prantomollick.github.io/css-mini-projects/10-flag-of-germany/index.html)

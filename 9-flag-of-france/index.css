@@ -1,0 +1,47 @@
+/* 
+example
+Flag Ratio: 5:4
+Flag Height: 200px
+
+.country-flag {
+    width: calc(200px * 4 / 5)
+}
+*/
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background: black;
+}
+
+:root {
+    --red: #ed2938;
+    --white: #fff;
+    --blue: #002495;
+    --flag-height: 150px;
+}
+
+.flag-france {
+    height: var(--flag-height);
+    width: calc(var(--flag-height) * 3 / 2); /* 3:2 ratio */
+    margin: 2em auto;
+    /* display: flex; */
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+/* .stripe {
+    flex-grow: 1;
+} */
+
+.red {
+    background-color: var(--red);
+}
+.blue {
+    background-color: var(--blue);
+}
+
+.white {
+    background-color: var(--white);
+}
