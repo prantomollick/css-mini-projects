@@ -1,0 +1,12 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background: black;
+}
+
+:root {
+    --white: #ffffff;
+    --red: #bc022c;
+    --flag-height: 200px;
+}
