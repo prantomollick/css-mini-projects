@@ -1,4 +1,4 @@
-# 🎨 [CSS Mini Projects](https://prantomollick.com/)
+# 🎨 [CSS Mini Projects](https://prantomollick.github.io/css-mini-projects/)
 
 This repository contains a collection of mini projects built using CSS. Each project demonstrates different CSS techniques and concepts, ranging from basic styling to advanced animations. Perfect for anyone looking to improve their CSS skills through hands-on practice.
 
@@ -39,7 +39,7 @@ $ cd css-mini-projects
 
 ### <a name="spoiler-revealer">Spoiler Revealer</a>
 
-[![Spoiler Revealer](./1-spoiler-revealer.png "Spoiler Revealer")](https://sushiman-responsive-website.netlify.app/)
+[![Spoiler Revealer](./1-spoiler-revealer.png "Spoiler Revealer")](https://prantomollick.github.io/css-mini-projects/1-spoiler-revealer/index.html)
 
 -   Import a HTML file and watch it magically convert to Markdown
 -   Drag and drop images (requires your Dropbox account be linked)
