@@ -6,7 +6,7 @@ This repository contains a collection of mini projects built using CSS. Each pro
 
 1. ⬇️ [Installation](#installation)
 2. ⚙️ [Tech Stack](#tack-stack)
-3. 🛠️ [Features](#features)
+3. 📋 [Projects](#projects)
 4. 🤝 [Connect With me](#contact)
 5. 🧾 [Credit](#credit)
 
@@ -32,3 +32,17 @@ $ cd css-mini-projects
 
 -   HTML5
 -   CSS 3
+
+## <a name="projects">📋 Projects</a>
+
+1. [Spoiler Revealer](#spoiler-revealer)
+
+### <a name="spoiler-revealer">Spoiler Revealer</a>
+
+[![Spoiler Revealer](./1-spoiler-revealer.png "Spoiler Revealer")](https://sushiman-responsive-website.netlify.app/)
+
+-   Import a HTML file and watch it magically convert to Markdown
+-   Drag and drop images (requires your Dropbox account be linked)
+-   Import and save files from GitHub, Dropbox, Google Drive and One Drive
+-   Drag and drop markdown and HTML files into Dillinger
+-   Export documents as Markdown, HTML and PDF
