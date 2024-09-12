@@ -1,0 +1,52 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+:root {
+    --bg-word: #5134ff;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1::after {
+    content: " HTML CSS";
+    color: #fff;
+    background: var(--bg-word);
+
+    padding: 10px;
+    margin-left: 4px;
+
+    border-radius: 4px;
+
+    animation: 6s swap infinite;
+}
+
+@keyframes swap {
+    0% {
+        content: "singing";
+    }
+
+    25% {
+        content: "Cats";
+    }
+
+    50% {
+        content: "Coding";
+    }
+
+    75% {
+        content: "HTML CSS";
+    }
+
+    100% {
+        content: "Singing";
+    }
+}

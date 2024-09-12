@@ -42,6 +42,7 @@ $ cd css-mini-projects
 5. [Loading Animation](#loading-animation)
 6. [Loading Animation 2](#loading-animation-2)
 7. [Archery Target](#archery-target)
+8. [Word Carousel](#8-word-carousel)
 
 ### <a name="spoiler-revealer">Spoiler Revealer</a>
 
@@ -70,3 +71,7 @@ $ cd css-mini-projects
 ### <a name="archery-target">Archery Target</a>
 
 [![Archery Target](./7-archery-target.png "Archery Target")](https://prantomollick.github.io/css-mini-projects/7-archery-target/index.html)
+
+### <a name="8-word-carousel">Word Carousel</a>
+
+[![Word Carousel](./8-word-carousel.png "Word Carousel")](https://prantomollick.github.io/css-mini-projects/8-word-carousel/index.html)
