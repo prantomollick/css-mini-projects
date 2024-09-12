@@ -1,0 +1,64 @@
+/* Flag Ratio: 5:4
+Flag height: 200px
+width: calc(200px * 4 / 5)
+
+our goal to create:
+Aspect Ratio 6:7
+stripes have equal area
+circle 85% of the height */
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background: black;
+}
+
+:root {
+    --orange: #e15307;
+    --white: #ffffff;
+    --green: #10af2a;
+    --flag-height: 200px;
+    --flag-width: calc(var(--flag-height) * 7 / 6);
+}
+
+.flag-niger {
+    background: blue;
+    height: var(--flag-height);
+    width: var(--flag-width);
+
+    margin: 2em auto;
+
+    display: grid;
+    /* display: flex;
+    flex-direction: column; */
+}
+
+.stripe {
+    /* flex: 1; */
+}
+
+.orange {
+    background: var(--orange);
+}
+
+.white {
+    background: var(--white);
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.green {
+    background: var(--green);
+}
+
+.circle {
+    background: var(--orange);
+    height: calc(var(--flag-height) / 3 * 0.85);
+    width: calc(var(--flag-height) / 3 * 0.85);
+    border-radius: 100%;
+
+    position: absolute;
+}
