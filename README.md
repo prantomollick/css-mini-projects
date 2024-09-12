@@ -36,7 +36,12 @@ $ cd css-mini-projects
 ## <a name="projects">📋 Projects</a>
 
 1. [Spoiler Revealer](#spoiler-revealer)
+2. [Colorful Button](#colorful-button)
 
 ### <a name="spoiler-revealer">Spoiler Revealer</a>
+
+[![Spoiler Revealer](./1-spoiler-revealer.png "Spoiler Revealer")](https://prantomollick.github.io/css-mini-projects/1-spoiler-revealer/index.html)
+
+### <a name="colorful-button">Colorful Buttons</a>
 
 [![Spoiler Revealer](./1-spoiler-revealer.png "Spoiler Revealer")](https://prantomollick.github.io/css-mini-projects/1-spoiler-revealer/index.html)
