@@ -37,11 +37,36 @@ $ cd css-mini-projects
 
 1. [Spoiler Revealer](#spoiler-revealer)
 2. [Colorful Button](#colorful-button)
+3. [Expanding Search Bar](#expanding-search-bar)
+4. [Codepan Tile](#codepan-tile)
+5. [Loading Animation](#loading-animation)
+6. [Loading Animation 2](#loading-animation-2)
+7. [Archery Target](#archery-target)
 
 ### <a name="spoiler-revealer">Spoiler Revealer</a>
 
 [![Spoiler Revealer](./1-spoiler-revealer.png "Spoiler Revealer")](https://prantomollick.github.io/css-mini-projects/1-spoiler-revealer/index.html)
 
-### <a name="colorful-button">Colorful Buttons</a>
+### <a name="colorful-button">Colorful Button</a>
 
-[![Spoiler Revealer](./1-spoiler-revealer.png "Spoiler Revealer")](https://prantomollick.github.io/css-mini-projects/1-spoiler-revealer/index.html)
+[![Colorful Button](./2-colorful-button.png)Colorful Button](https://prantomollick.github.io/css-mini-projects/2-colorful-button/index.html)
+
+### <a name="expanding-search-bar">Expanding Search Bar</a>
+
+[![Expanding Search Bar](./3-expanding-search-bar.png)Expanding Search Bar](https://prantomollick.github.io/css-mini-projects/3-expanding-search-bar/index.html)
+
+### <a name="codepan-tile">Codepan Tile</a>
+
+[![Codepan Tile](./4-codepan-tile.png)Codepan Tile](https://prantomollick.github.io/css-mini-projects/4-codepan-tile/index.html)
+
+### <a name="loading-animation">Loading Animation</a>
+
+[![Loading Animation](./5-loading-animation.png)Loading Animation](https://prantomollick.github.io/css-mini-projects/5-loading-animation/index.html)
+
+### <a name="loading-animation-2">Loading Animation 2</a>
+
+[![Loading Animation 2](./6-loading-animation-2.png)Loading Animation 2](https://prantomollick.github.io/css-mini-projects/6-loading-animation-2/index.html)
+
+### <a name="archery-target">Archery Target</a>
+
+[![Archery Target](./7-archery-target.png)Archery Target](https://prantomollick.github.io/css-mini-projects/7-archery-target/index.html)
