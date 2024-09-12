@@ -1,0 +1,31 @@
+:root {
+    --font-family-base: Arial, Helvetica, sans-serif;
+    --spoiler-color: #000;
+}
+
+body {
+    font-family: var(--font-family-base);
+}
+
+p {
+    line-height: 1.5em;
+}
+
+.post {
+    background: #e8eaed;
+    padding: 1em;
+    border-radius: 1em;
+    margin-bottom: 1em;
+}
+
+.spoiler {
+    background: var(--spoiler-color);
+    color: var(--spoiler-color);
+    /* user-select: none; */
+    transition: all 0.5s;
+}
+
+.spoiler:hover {
+    background: initial;
+    color: initial;
+}

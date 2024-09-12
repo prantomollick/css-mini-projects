@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="styles.css" />
+        <title>Expanding Search Bar</title>
+    </head>
+    <body>
+        <!-- 
+        Requirements
+        Search input > Takes 1/3 of the width of it's container
+
+        when the user clicks into the search bar:
+        >input grows to entire width of it's parent container with smooth transition
+        > shrinks back to original size when user clicks away 
+        > blue border
+        > bonus: placeholder text is not visible when user clicks inside the search bar
+
+        > accessibility
+        for Accessibility, form inputs should always have a label. create a label with a valid for attribute
+
+        > look up some css rule no need to write it yourself
+        that hide the search input's label visually but keeps in accessible to screen readers
+        -->
+        <div class="container">
+            <label for="search-field" class="hide">Search</label>
+            <input
+                type="search"
+                class="search-bar"
+                id="search-field"
+                placeholder="Search..."
+            />
+        </div>
+    </body>
+</html>

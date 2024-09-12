@@ -1,0 +1,100 @@
+:root {
+    --font-family: "Karla", sans-serif;
+    --body-bg: #1e1f25;
+    --btn-bg: #000;
+    --btn-color: #cbcbcb;
+    --btn-color-hover: #fff;
+    --grad-color1: #eeaf61;
+    --grad-color2: #fb9062;
+    --grad-color3: #ee5d6c;
+    --grad-color4: #ce4993;
+    --grad-color5: #6a0d83;
+}
+
+html {
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: var(--body-bg);
+    font-family: var(--font-family);
+}
+
+/* 
+gradient border
+use provided colors or choose your own
+gradient is 115 degrees
+
+hover state
+gradient colors flip horizontally
+button grows slightly in size
+the text changes from gray to white
+
+center button on page
+
+hints and help
+> Gradient border effect can be accomplished using a wrapping div or with the border-image property
+
+what to research the linear-gradient function
+border image and border image slice
+*/
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.button-border {
+    background: linear-gradient(
+        115deg,
+        var(--grad-color1),
+        var(--grad-color2),
+        var(--grad-color3),
+        var(--grad-color4),
+        var(--grad-color5)
+    );
+
+    padding: 2px;
+}
+
+.button {
+    border: none;
+    background-color: var(--btn-bg);
+    color: var(--btn-color);
+    padding: 1em 1.5em;
+    font-family: inherit;
+    letter-spacing: 0.1em;
+    /* background: transparent; */
+    /* border-image: linear-gradient(
+        115deg,
+        var(--grad-color1),
+        var(--grad-color2),
+        var(--grad-color3),
+        var(--grad-color4),
+        var(--grad-color5)
+    );
+    border-image-slice: 1; */
+}
+
+.button-border:hover {
+    background: linear-gradient(
+        -115deg,
+        var(--grad-color1),
+        var(--grad-color2),
+        var(--grad-color3),
+        var(--grad-color4),
+        var(--grad-color5)
+    );
+}
+
+.button-border:hover .button {
+    color: var(--btn-color-hover);
+    padding: 1.1em 1.6em;
+}
