@@ -1,0 +1,8 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+:root {
+    --card-height: 200px;
+}
