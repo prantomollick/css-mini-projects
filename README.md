@@ -45,6 +45,9 @@ $ cd css-mini-projects
 8. [Word Carousel](#8-word-carousel)
 9. [Flag Of France](#9-flag-of-france)
 10. [Flag Of Germany](#10-flag-of-germany)
+11. [Flag Of Madgascar](#11-flag-of-madgascar)
+12. [Flag of Switzerland](#12-flag-of-switzerland)
+13. [Flag Of Japan](#13-flag-of-japan)
 
 ### <a name="spoiler-revealer">Spoiler Revealer</a>
 
@@ -85,3 +88,63 @@ $ cd css-mini-projects
 ### <a name="10-flag-of-germany">Flag Of Germany</a>
 
 [![Flag Of Germany](./10-flag-of-germany.png "Flag Of Germany")](https://prantomollick.github.io/css-mini-projects/10-flag-of-germany/index.html)
+
+### <a name="11-flag-of-madgascar">Flag Of Madgascar</a>
+
+[![Flag Of Madgascar](./11-flag-of-madgascar.png "Flag Of Madgascar")](https://prantomollick.github.io/css-mini-projects/11-flag-of-madgascar/index.html)
+
+### <a name="12-flag-of-switzerland">Flag Of Switzerland</a>
+
+[![Flag Of Switzerland](./12-flag-of-switzerland.png "Flag Of Switzerland")](https://prantomollick.github.io/css-mini-projects/12-flag-of-switzerland/index.html)
+
+### <a name="13-flag-of-japan">Flag Of Japan</a>
+
+[![Flag Of Japan](./13-flag-of-japan.png "Flag Of Japan")](https://prantomollick.github.io/css-mini-projects/13-flag-of-japan/index.html)
+
+### <a name="14-flag-of-sweden">Flag of Sweden</a>
+
+[![Flag of Sweden](./14-flag-of-sweden.png "Flag of Sweden")](https://prantomollick.github.io/css-mini-projects/14-flag-of-sweden/index.html)
+
+### <a name="15-flag-of-Niger">flag of Niger</a>
+
+[![flag of Niger](./15-flag-of-Niger.png "flag of Niger")](https://prantomollick.github.io/css-mini-projects/15-flag-of-Niger/index.html)
+
+### <a name="16-github-profile-layout">Github Profile Layout</a>
+
+[![Github Profile Layout](./16-github-profile-layout.png "Github Profile Layout")](https://prantomollick.github.io/css-mini-projects/16-github-profile-layout/index.html)
+
+### <a name="17-toggle-switch">Toggle Switch</a>
+
+[![Toggle Switch](./17-toggle-switch.png "Toggle Switch")](https://prantomollick.github.io/css-mini-projects/17-toggle-switch/index.html)
+
+### <a name="18-playing-card-ace-of-spades">Playing Card Ace Of Spades</a>
+
+[![Playing Card Ace Of Spades](./18-playing-card-ace-of-spades.png "Playing Card Ace Of Spades")](https://prantomollick.github.io/css-mini-projects/18-playing-card-ace-of-spades/index.html)
+
+### <a name="19-playing-card-4-of-hearts">Playing Card 4 Of Hearts</a>
+
+[![Playing Card 4 Of Hearts](./19-playing-card-4-of-hearts.png "Playing Card 4 Of Hearts")](https://prantomollick.github.io/css-mini-projects/19-playing-card-4-of-hearts/index.html)
+
+### <a name="20-adjustable-progress-bar">Adjustable Progress Bar</a>
+
+[![Adjustable Progress Bar](./20-adjustable-progress-bar.png "Adjustable Progress Bar")](https://prantomollick.github.io/css-mini-projects/20-adjustable-progress-bar/index.html)
+
+### <a name="21-jeopardy-card-flip">Jeopardy Card Flip</a>
+
+[![Jeopardy Card Flip](./21-jeopardy-card-flip.png "Jeopardy Card Flip")](https://prantomollick.github.io/css-mini-projects/21-jeopardy-card-flip/index.html)
+
+### <a name="22-loading-animation-3">Loading Animation 3</a>
+
+[![Loading Animation 3](./22-loading-animation-3.png "Loading Animation 3")](https://prantomollick.github.io/css-mini-projects/22-loading-animation-3/index.html)
+
+### <a name="23-instagram-stories-menu">Instagram Stories Menu</a>
+
+[![Instagram Stories Menu](./23-instagram-stories-menu.png "Instagram Stories Menu")](https://prantomollick.github.io/css-mini-projects/23-instagram-stories-menu/index.html)
+
+### <a name="24-animated-progress-bar">Animated Progress Bar</a>
+
+[![Animated Progress Bar](./24-animated-progress-bar.png "Animated Progress Bar")](https://prantomollick.github.io/css-mini-projects/24-animated-progress-bar/index.html)
+
+### <a name="25-github-contributions-graph">Github Contributions Graph</a>
+
+[![Github Contributions Graph](./25-github-contributions-graph.png "Github Contributions Graph")](https://prantomollick.github.io/css-mini-projects/25-github-contributions-graph/index.html)
