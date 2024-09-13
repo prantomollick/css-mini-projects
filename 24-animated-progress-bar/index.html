@@ -3,7 +3,30 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Document</title>
+        <link rel="stylesheet" href="index.css" />
+        <title>Animated Progress Bar</title>
     </head>
-    <body></body>
+    <body>
+        <!-- 
+        Animated Progress Bar
+        Build a CSS animation of a progress bar filling to 100%. 
+        The animation should run continuously, with a small pause when the bar is filled 100%
+        The progress begins red, turns blue at 50% full, and green when complete
+        it
+        CSS only!
+        
+        Hints:
+        It may help to think of the progress bar as two elements, one on top of another: 
+        an outer progress bar and an inner progress bar. 
+        How can you use the width of the inner progress bar to create the effect of the outer progress bar filling?
+        Use the animation property and keyframes to complete this challenges. 
+        There’s no way to pause an infinite animation between iterations, 
+        so to create the effect of a “pause” once the progress bar has filled to 100%, you may need an extra key frame
+        -->
+        <div class="container">
+            <div class="progress-bar">
+                <div class="progress-bar progress-status"></div>
+            </div>
+        </div>
+    </body>
 </html>
