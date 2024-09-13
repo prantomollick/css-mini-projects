@@ -48,6 +48,18 @@ $ cd css-mini-projects
 11. [Flag Of Madgascar](#11-flag-of-madgascar)
 12. [Flag of Switzerland](#12-flag-of-switzerland)
 13. [Flag Of Japan](#13-flag-of-japan)
+14. [Flag-of-sweden](#14-flag-of-sweden)
+15. [Flag-of-Niger](#15-flag-of-Niger)
+16. [Github-profile-layout](#16-github-profile-layout)
+17. [Toggle-switch](#17-toggle-switch)
+18. [Playing-card-ace-of-spades](#18-playing-card-ace-of-spades)
+19. [Playing-card-4-of-hearts](#19-playing-card-4-of-hearts)
+20. [Adjustable-progress-bar](#20-adjustable-progress-bar)
+21. [Jeopardy-card-flip](#21-jeopardy-card-flip)
+22. [Loading-animation-3](#22-loading-animation-3)
+23. [Instagram-stories-menu](#23-instagram-stories-menu)
+24. [Animated-progress-bar](#24-animated-progress-bar)
+25. [Github-contributions-graph](#25-github-contributions-graph)
 
 ### <a name="spoiler-revealer">Spoiler Revealer</a>
 
