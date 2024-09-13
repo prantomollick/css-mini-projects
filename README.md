@@ -160,3 +160,14 @@ $ cd css-mini-projects
 ### <a name="25-github-contributions-graph">Github Contributions Graph</a>
 
 [![Github Contributions Graph](./25-github-contributions-graph.png "Github Contributions Graph")](https://prantomollick.github.io/css-mini-projects/25-github-contributions-graph/index.html)
+
+## <a name="contact">🤝 Connect With me</a>
+
+👥 [@prantomollick](https://www.linkedin.com/in/prantomollick/)
+❌ [@prantomollick55](https://x.com/prantomollick55)
+✉️ [prantomollick01@gmail.com](mailto:prantomollick01@gmail.com)
+🌎 https://prantomollick.com
+
+## <a name="credit">🧾 Credit</a>
+
+<em><samll><author>@trezpTreasure Porth</author> [CSS Challenges](https://v2.scrimba.com/css-challenges-c02p)</samll></em>
